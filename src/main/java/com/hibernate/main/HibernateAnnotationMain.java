@@ -12,7 +12,7 @@ public class HibernateAnnotationMain {
 
 	public static void main(String[] args) {
 		Employee1 emp = new Employee1();
-		emp.setName("David");
+		emp.setName("Mayur");
 		emp.setRole("Developer");
 		emp.setInsertTime(new Date());
 		
